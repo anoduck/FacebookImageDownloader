@@ -1,8 +1,0 @@
-{
-    "error": {
-        "message": "Error validating access token: This may be because the user logged out or may be due to a system error.",
-        "code": 190,
-        "type": "OAuthException",
-        "error_subcode": 467
-    }
-}
