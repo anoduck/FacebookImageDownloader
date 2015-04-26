@@ -4,7 +4,7 @@
 Usage
 ================
 
-* Login to the Facebook Developers Page and create an new app.
+* Login to the Facebook Developers Page and create a new app.
 * Generate access token from the page
 * Download the zip file or clone to Desktop
 * Create a file `config.py` at the root of the folder
