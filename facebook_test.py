@@ -1,4 +1,4 @@
-import fb, json, urllib
+import fb, urllib
 from config import token
 
 #print token
